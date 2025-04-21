@@ -1,4 +1,4 @@
-Заключение
+## Итог
 
 В общем, у меня было 2 этапа алгоритмических собеседований.
 
@@ -8,7 +8,8 @@
 
 Эпопея с Яндексом довольно быстро закончилась, но я ни о чём не жалею. Я приобрёл ценный навык прохождения алгоритмических собеседований и теперь смогу попробовать свои силы в других крупных компаниях.
 
-Прикладываю ссылки на эти задачи:
-https://leetcode.com/problems/permutation-in-string/description/
-https://leetcode.com/problems/max-consecutive-ones-iii/description/
-https://leetcode.com/problems/find-duplicate-subtrees/
+Прикладываю ссылки на эти задачи:  
+- [Permutation in String](https://leetcode.com/problems/permutation-in-string/description/)  
+- [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/description/)  
+- [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)
+
